@@ -20,3 +20,4 @@ A collection of beginner-friendly and practical tutorials for **Gravitational-Wa
   Dive into machine learning for GW data!  
   This tutorial guides you through:
   - Using Gravity Spy glitch classification
+  - Using gengli for glitch simulation
