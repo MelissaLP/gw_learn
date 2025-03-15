@@ -1,4 +1,4 @@
-### Welcome to `gw_learn gravityspy`, a  glitch classification and simulation tutorial
+### Welcome to `gw_learn starter-pack`, a  GW data analysis tutorial
 
 For questions related to the material, please contact Melissa Lopez (m.lopez@uu.nl)
 
